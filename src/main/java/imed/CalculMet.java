@@ -17,7 +17,7 @@ public double soustract(double a,double b) {
 		
 	}
 	
-	public double div(double a,double b) {
+	public double division(double a,double b) {
 		
 		return a/b;
 		
