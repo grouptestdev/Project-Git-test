@@ -4,11 +4,7 @@ public class CalculMet {
 	
 	public double somme(double a,double b) {
 		
-		return a+b;
-		
-		
-		
-		
+		return a+b; 
 	}
 public double produit(double a,double b) {
 		
@@ -32,7 +28,13 @@ public double somme(double a,double b) {
 		
 		return a/b;
 		
+	
 		
 		
+	}
+		public String sayHello() {
+		
+		Syteme.out.println("hello");
+	
 	}
 }
