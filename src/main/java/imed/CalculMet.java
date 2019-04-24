@@ -24,7 +24,6 @@ public double soustract(double a,double b) {
 		
 		
 		
-		
 	}
 		public String sayHello() {
 		
