@@ -7,6 +7,8 @@ public class CalculMet {
 		return a+b;
 		
 		
+		
+		
 	}
 public double produit(double a,double b) {
 		
