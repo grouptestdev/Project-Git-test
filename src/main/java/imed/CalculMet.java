@@ -18,12 +18,7 @@ public double soustract(double a,double b) {
 
 		
 	}
-
-public double somme(double a,double b) {
-		
-		return a+b;
-		
-	}	
+	
 	public double division(double a,double b) {
 		
 		return a/b;
