@@ -26,13 +26,6 @@ public double somme(double a,double b) {
 		
 		return a/b;
 		
-	
-		
-		
 	}
-		public String sayHello() {
-		
-		Syteme.out.println("hello");
 	
-	}
 }
