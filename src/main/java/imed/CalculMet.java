@@ -30,5 +30,6 @@ public class CalculMet {
 	}
 	public String myApp(){
 		System.out.println("Bon courage equipe Exa-Technoogie");
+		System.out.println("Bon courage");
 	}
 }
