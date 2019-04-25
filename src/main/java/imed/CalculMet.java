@@ -4,11 +4,7 @@ public class CalculMet {
 	
 	public double somme(double a,double b) {
 		
-		return a+b;
-		
-		
-		
-		
+		return a+b; 
 	}
     public double produit(double a,double b) {
 		
@@ -19,14 +15,14 @@ public class CalculMet {
 		
 		return a-b;
 		
+
+		
 	}
 	
 	public double division(double a,double b) {
 		
 		return a/b;
 		
-	
-	
 	}
 	public String myApp(){
 		System.out.println("Bon courage equipe Exa-Technoogie");

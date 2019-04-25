@@ -1,6 +1,0 @@
-projectKey=imed:testmvn
-serverUrl=http://localhost:9000
-serverVersion=7.5.0.20543
-dashboardUrl=http://localhost:9000/dashboard?id=imed%3Atestmvn
-ceTaskId=AWn-5lsTM3b135IvUJcG
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWn-5lsTM3b135IvUJcG
